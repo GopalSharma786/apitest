@@ -12,28 +12,28 @@
     "Status": "Available",
     "title": "IPhone 8",
     "StockCount":200,
-    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theverge.com%2Fcircuitbreaker%2F2018%2F10%2F31%2F18047174%2Fiphone-x-8-plus-performance-throttling-battery-management-ios-12-1-update&psig=AOvVaw0AsGydOfyxk89u8xWe4L4B&ust=1597028681832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj4veiRjesCFQAAAAAdAAAAABAJ"
+    "url": "https://images-na.ssl-images-amazon.com/images/I/615YxppSdrL._AC_SX679_.jpg"
   },
   {
     "StockId": 3,
     "Status": "Out of Stock",
     "title":"IPhone 11 PRO",
     "StockCount":0,
-    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-11-pro%2F&psig=AOvVaw0AsGydOfyxk89u8xWe4L4B&ust=1597028681832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj4veiRjesCFQAAAAAdAAAAABAP"
+    "url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-midnight-green-select-2019?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1566954990073"
   },
   {
     "StockId": 4,
     "Status": "Available",
     "title": "IPhone 11",
     "StockCount":1000,
-    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidphelan%2F2020%2F04%2F08%2Fapple-iphone-12-report-suggests-stunning-phones-hints-at-delay%2F&psig=AOvVaw0AsGydOfyxk89u8xWe4L4B&ust=1597028681832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj4veiRjesCFQAAAAAdAAAAABAU"
+    "url": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1567022175704"
   },
   {
     "StockId": 5,
     "Status": "Out Of Stock",
     "title": "IPhone 12",
     "StockCount":0,
-    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Fnews%2Fiphone-12-could-launch-in-two-stages-rumors-release-date%2F&psig=AOvVaw0AsGydOfyxk89u8xWe4L4B&ust=1597028681832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj4veiRjesCFQAAAAAdAAAAABAa"
+    "url": "https://cnet2.cbsistatic.com/img/vdBKb1qkvU2AeWY6NNSB5kiJeag=/1092x0/2019/11/07/09be7e4c-9801-4d03-b86d-248f501538ff/iphone-12-render-phone-arena-2.jpg"
   }
   ]
 }
