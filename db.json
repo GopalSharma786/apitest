@@ -1,0 +1,38 @@
+
+{
+  {
+    "albumId": 1,
+    "id": "Available",
+    "title": "IPhone 6S",
+    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gsmarena.com%2Fapple_iphone_7-pictures-8064.php&psig=AOvVaw0AsGydOfyxk89u8xWe4L4B&ust=1597028681832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj4veiRjesCFQAAAAAdAAAAABAE"
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": "Available",
+    "title": "IPhone 8",
+    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theverge.com%2Fcircuitbreaker%2F2018%2F10%2F31%2F18047174%2Fiphone-x-8-plus-performance-throttling-battery-management-ios-12-1-update&psig=AOvVaw0AsGydOfyxk89u8xWe4L4B&ust=1597028681832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj4veiRjesCFQAAAAAdAAAAABAJ",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "albumId": 1,
+    "id": "Out of Stock",
+    "title":"IPhone 11 PRO",
+    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Freview%2Fapple-iphone-11-pro%2F&psig=AOvVaw0AsGydOfyxk89u8xWe4L4B&ust=1597028681832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj4veiRjesCFQAAAAAdAAAAABAP",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": "Available",
+    "title": "IPhone 11",
+    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fdavidphelan%2F2020%2F04%2F08%2Fapple-iphone-12-report-suggests-stunning-phones-hints-at-delay%2F&psig=AOvVaw0AsGydOfyxk89u8xWe4L4B&ust=1597028681832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj4veiRjesCFQAAAAAdAAAAABAU",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "albumId": 1,
+    "id": "Out Of Stock",
+    "title": "IPhone 12",
+    "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnet.com%2Fnews%2Fiphone-12-could-launch-in-two-stages-rumors-release-date%2F&psig=AOvVaw0AsGydOfyxk89u8xWe4L4B&ust=1597028681832000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj4veiRjesCFQAAAAAdAAAAABAa",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  }
+  }
