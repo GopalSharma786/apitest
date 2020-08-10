@@ -34,6 +34,14 @@
     "title": "IPhone 12",
     "StockCount":0,
     "url": "https://cnet2.cbsistatic.com/img/vdBKb1qkvU2AeWY6NNSB5kiJeag=/1092x0/2019/11/07/09be7e4c-9801-4d03-b86d-248f501538ff/iphone-12-render-phone-arena-2.jpg"
+  },
+  {
+    "StockId": 6,
+    "Status": "Available",
+    "title": "IPhone 5",
+    "StockCount":45,
+    "url": "https://cdn.shopify.com/s/files/1/2787/0602/products/5s_gold_2_1024x1024.jpeg?v=1550278398"
   }
+  
   ]
 }
